@@ -1,11 +1,3 @@
-## 【广告】每日Arxiv（中文版）
-每日Arxiv（中文版）立志paper**汉化**，目前翻译目前涵盖**标题**和**摘要**，AI学科近期支持论文**全文汉化**
-
-一天阅读百篇paper不是梦！
-
-链接： [学术巷子(xueshuxiangzi.com)](https://www.xueshuxiangzi.com/)
-
-
 前言
 ====
 
